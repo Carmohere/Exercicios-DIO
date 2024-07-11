@@ -1,6 +1,5 @@
 package List.Pesquisa;
 
-
 public class Livro {
     //atributos
     private String titulo;
